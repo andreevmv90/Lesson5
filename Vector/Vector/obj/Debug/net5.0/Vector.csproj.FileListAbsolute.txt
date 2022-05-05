@@ -1,0 +1,16 @@
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 5\Lesson5\Vector\Vector\bin\Debug\net5.0\Vector.exe
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 5\Lesson5\Vector\Vector\bin\Debug\net5.0\Vector.deps.json
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 5\Lesson5\Vector\Vector\bin\Debug\net5.0\Vector.runtimeconfig.json
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 5\Lesson5\Vector\Vector\bin\Debug\net5.0\Vector.runtimeconfig.dev.json
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 5\Lesson5\Vector\Vector\bin\Debug\net5.0\Vector.dll
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 5\Lesson5\Vector\Vector\bin\Debug\net5.0\ref\Vector.dll
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 5\Lesson5\Vector\Vector\bin\Debug\net5.0\Vector.pdb
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 5\Lesson5\Vector\Vector\obj\Debug\net5.0\Vector.csproj.AssemblyReference.cache
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 5\Lesson5\Vector\Vector\obj\Debug\net5.0\Vector.GeneratedMSBuildEditorConfig.editorconfig
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 5\Lesson5\Vector\Vector\obj\Debug\net5.0\Vector.AssemblyInfoInputs.cache
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 5\Lesson5\Vector\Vector\obj\Debug\net5.0\Vector.AssemblyInfo.cs
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 5\Lesson5\Vector\Vector\obj\Debug\net5.0\Vector.csproj.CoreCompileInputs.cache
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 5\Lesson5\Vector\Vector\obj\Debug\net5.0\Vector.dll
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 5\Lesson5\Vector\Vector\obj\Debug\net5.0\ref\Vector.dll
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 5\Lesson5\Vector\Vector\obj\Debug\net5.0\Vector.pdb
+D:\YandexDisk\ФПК\МОИ ФПК\Rubius\Вебинар 5\Lesson5\Vector\Vector\obj\Debug\net5.0\Vector.genruntimeconfig.cache
